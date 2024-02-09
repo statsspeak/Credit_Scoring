@@ -1,4 +1,5 @@
 ## Project Highlight: Collaboration with LipaChat for Regional Bank Credit Scoring Engine
+![Credit Scoring Engine](assets/scott-graham-5fNmWej4tAA-unsplash.jpg)
 
 **Overview:** Statsspeak partnered with LipaChat to develop an advanced Credit Scoring Engine for a regional bank. This innovative application leverages the power of machine learning to intelligently evaluate and reward customers, transforming the credit scoring process for financial institutions.
 
@@ -8,5 +9,5 @@
 - **Streamlined Operations:** The Credit Scoring Engine streamlines operations, enhancing efficiency and productivity within the institution.
 - **Enhanced Customer Satisfaction:** By offering tailored credit evaluation, institutions can enhance customer satisfaction and loyalty.
 - **Increased Profitability:** Experience the transformative benefits of increased profitability through improved risk management and decision-making.
-
+![Credit Scoring Engine](assets/Analytics-1.png)
 **Outcome:** The collaboration between Statsspeak and LipaChat resulted in the successful implementation of a state-of-the-art Credit Scoring Engine, empowering the regional bank to make smarter credit decisions and drive business growth.
